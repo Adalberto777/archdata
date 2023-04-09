@@ -3,8 +3,8 @@ package lesson_1;
 public class Main {
     public static void main(String[] args) {
         int [] array = new  int[]{8, 7, 6, 1, 2, 3, 9, 4, 5};
-        for (int j : array) {
-            System.out.print(j + " ");
+        for (int i : array) {
+            System.out.print(i + " ");
         }
         System.out.println();
         // пузырьковая сортировка O(n^2)
