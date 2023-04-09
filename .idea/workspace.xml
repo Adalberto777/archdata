@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de5a459-46b5-4dac-ba25-082a4e46773c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/BabbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/DirectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/FindValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/FindValurBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/Main.java" afterDir="false" />
+    <list default="true" id="4de5a459-46b5-4dac-ba25-082a4e46773c" name="Changes" comment="binary searching">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_1/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/FindValurBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_1/FindValueBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +78,32 @@
       <option name="presentableId" value="Default" />
       <updated>1680864948247</updated>
     </task>
+    <task id="LOCAL-00001" summary="binary searching">
+      <created>1681050890010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681050890010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="binary searching">
+      <created>1681051103609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681051103609</updated>
+    </task>
+    <task id="LOCAL-00003" summary="binary searching">
+      <created>1681051135164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681051135164</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="binary searching" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary searching" />
   </component>
 </project>

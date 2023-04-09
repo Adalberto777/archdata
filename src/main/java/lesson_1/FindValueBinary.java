@@ -2,8 +2,8 @@ package lesson_1;
 
 import org.jetbrains.annotations.NotNull;
 
-public class FindValurBinary {
-    public FindValurBinary(int[] array, int value) {
+public class FindValueBinary {
+    public FindValueBinary(int[] array, int value) {
 
     }
     public static int findValurBinary(int @NotNull [] array, int value, int min, int max) {
