@@ -9,6 +9,8 @@ public class QuickSort {
     public static void quickSort(int @NotNull [] array, int startPosition, int endPosition) {
         int leftPosition = startPosition;
         int rightPosition = endPosition;
+        // точкой пивот выбирается число в середине массива, но может быть любой,
+        // например array[startPosition] - начало массива
         int pivot = array[(startPosition + endPosition) / 2];
         do{
             while(array[leftPosition] < pivot){
